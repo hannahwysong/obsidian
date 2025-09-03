@@ -1,6 +1,6 @@
 Class: [[TeamProjects]]
 Date: 08-27-2025
-Topics: #requirements #project
+Topics: #requirements #project #team-projects 
 
 Planning and Management 
 - understand what needs to be done and what is willing to be done 

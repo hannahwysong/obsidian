@@ -2,7 +2,7 @@ Class: [[Intro to Software Engineering]]
 Date: 08-27-2025
 Topics: #software #software-engineering 
 
-prev notes - [[00 WSU Classes/Comp Sci/Intro to Software Engineering/Project Overview|Project Overview]]
+prev notes - [[01 WSU Classes/Comp Sci/Intro to Software Engineering/Project Overview|Project Overview]]
 
 Software Engineering Process 
 - Requirements: 

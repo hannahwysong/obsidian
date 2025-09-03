@@ -1,6 +1,7 @@
 Class: [[Team Projects]]
 Date: 08-29-2025
-Topics: #capstone #citing #teamprojects #white-paper
+Topics: #capstone #citing #team-projects  #white-paper
+
 White Paper: 
 - proposed solution to problem 
 - comprised of: 

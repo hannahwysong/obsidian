@@ -1,6 +1,6 @@
 Class: [[Team Projects]]
 Date: 08-27-2025
-Topics: #teamprojects #capstone #requirements #raspberry-pi 
+Topics: #team-projects  #capstone #requirements #raspberry-pi 
 
 Design Challenge
 
