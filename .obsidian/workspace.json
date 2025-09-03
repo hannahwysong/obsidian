@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "82b528dfa7310e20",
+        "id": "c5d028198abeddc5",
         "type": "tabs",
         "children": [
           {
-            "id": "5b6f1bc6dbb97157",
+            "id": "91e7f5c3a371ffed",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "00 WSU Classes/Comp Sci/Team Projects/Lecture Notes/White Paper.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "White Paper"
+              "title": "New tab"
             }
           }
         ]
@@ -33,6 +29,7 @@
       {
         "id": "28ec6867a5403229",
         "type": "tabs",
+        "dimension": 69.17293233082707,
         "children": [
           {
             "id": "e9806a20c7f42dfd",
@@ -75,6 +72,23 @@
             }
           }
         ]
+      },
+      {
+        "id": "700221f2e31fcd28",
+        "type": "tabs",
+        "dimension": 30.82706766917293,
+        "children": [
+          {
+            "id": "4f4daf774ee3e8a2",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
+          }
+        ]
       }
     ],
     "direction": "horizontal",
@@ -87,7 +101,7 @@
       {
         "id": "45b24e5fd9a47b3c",
         "type": "tabs",
-        "dimension": 31.374321880650996,
+        "dimension": 32.79132791327913,
         "children": [
           {
             "id": "86af9f18711f86f7",
@@ -95,7 +109,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "00 WSU Classes/Comp Sci/Team Projects/Lecture Notes/White Paper.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,7 +118,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for White Paper"
+              "title": "Backlinks"
             }
           },
           {
@@ -114,12 +127,11 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "00 WSU Classes/Comp Sci/Team Projects/Lecture Notes/White Paper.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from White Paper"
+              "title": "Outgoing links"
             }
           },
           {
@@ -143,13 +155,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "00 WSU Classes/Comp Sci/Team Projects/Lecture Notes/White Paper.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of White Paper"
+              "title": "Outline"
             }
           },
           {
@@ -181,37 +192,27 @@
               "icon": "SpacedRepIcon",
               "title": "Notes Review Queue"
             }
-          },
-          {
-            "id": "4f4daf774ee3e8a2",
-            "type": "leaf",
-            "state": {
-              "type": "git-view",
-              "state": {},
-              "icon": "git-pull-request",
-              "title": "Source Control"
-            }
           }
         ],
-        "currentTab": 7
+        "currentTab": 4
       },
       {
-        "id": "2720a75c0286cd2b",
+        "id": "a983a8f7239a0b2e",
         "type": "tabs",
-        "dimension": 39.963833634719705,
+        "dimension": 45.25745257452575,
         "children": [
           {
-            "id": "cc8b2f09e7c0bc07",
+            "id": "5b6f1bc6dbb97157",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "03 Notes/to-do/To-Do 09-02.md",
+                "file": "03 Notes/to-do/To-Do 09-03.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "To-Do 09-02"
+              "title": "To-Do 09-03"
             }
           }
         ]
@@ -219,7 +220,7 @@
       {
         "id": "48aca7d3cfc5f6cb",
         "type": "tabs",
-        "dimension": 28.661844484629295,
+        "dimension": 21.951219512195124,
         "children": [
           {
             "id": "39f830e707d4b2b2",
@@ -254,13 +255,19 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "5b6f1bc6dbb97157",
+  "active": "91e7f5c3a371ffed",
   "lastOpenFiles": [
+    "03 Notes/to-do/To-Do 09-03.md",
+    "03 Notes/to-do/To-Do 09-02.md",
+    "00 WSU Classes/Comp Sci/Team Projects/Quizzes/Requirements, Constraints, Standards.md",
+    "00 WSU Classes/Comp Sci/Team Projects/Lecture Notes/Project Requirement's.md",
+    "00 WSU Classes/Comp Sci/Team Projects/Quizzes",
+    "04 Italian/course/edX/beginner/Section 1/Exercises/Exercise 1.md",
+    "00 WSU Classes/Comp Sci/Team Projects/Lecture Notes/White Paper.md",
     "00 WSU Classes/Comp Sci/Team Projects/Lecture Notes/Project Overview.md",
     "04 Italian/vocab/Salutations and Small Talk.md",
     "04 Italian/course/edX/beginner/Section 1/Notes/Introductions.md",
     "04 Italian/course/edX/beginner/Section 1/Notes/Basic Grammar.md",
-    "04 Italian/course/edX/beginner/Section 1/Exercises/Exercise 1.md",
     "04 Italian/course/edX/beginner/Section 1/Notes",
     "04 Italian/course/edX/beginner/Section 1/Exercises",
     "04 Italian/course/edX/beginner/Section 1",
@@ -268,7 +275,6 @@
     "04 Italian/course/edX",
     "README.md",
     "Untitled.md",
-    "03 Notes/to-do/To-Do 09-02.md",
     "00 WSU Classes/Comp Sci/Logic for Computer Science/Exercises/Exercise 2 - Hannah Wysong.md",
     "00 WSU Classes/Comp Sci/Parallel Programming/Untitled.md",
     "00 WSU Classes/Comp Sci/Logic for Computer Science/Lecture Notes/Formal Semantics.md",
@@ -279,7 +285,6 @@
     "00 WSU Classes/Science",
     "00 WSU Classes/Math",
     "00 WSU Classes/Comp Eng",
-    "00 WSU Classes/Comp Sci",
     "00 WSU Classes/Comp Sci/Comparative Languages/Lecture Notes/Introduction.md",
     "00 WSU Classes/Comp Sci/Comparative Languages/Lecture Notes/Ambiguous Grammar.md",
     "00 WSU Classes/Comp Sci/Comparative Languages/Lecture Notes/Compile vs Interpret.md",
@@ -288,10 +293,6 @@
     "02 Templates/Intern Template.md",
     "02 Templates/Class Template.md",
     "02 Templates/Term Template.md",
-    "02 Templates/Book Template.md",
-    "{{coverUrl}}.md",
-    "Untitled.canvas",
-    "03 Notes/to-do/To-Do 08-29.md",
-    "00 WSU Classes/Comp Sci/Logic for Computer Science/Exercises/Exercise 1 - Hannah Wysong.md"
+    "Untitled.canvas"
   ]
 }

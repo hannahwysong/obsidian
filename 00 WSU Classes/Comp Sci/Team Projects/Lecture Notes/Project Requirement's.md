@@ -41,4 +41,4 @@ Wording
 - goals use should - not legally binding 
 Requirements vs Constraint 
 - constraint: limits design alternatives 
-- requirements: defines what shareholders  desire 
+- requirements: defines what shareholders desire 
