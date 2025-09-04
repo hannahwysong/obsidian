@@ -29,14 +29,17 @@ I = {q(a), q(c), p(a), r(a)}
 I = {q(c), q(a), p(c), r(c)}
 I = {q(b), q(c), p(b), r(b)}
 ###### Exercise 11 Evaluate the following.  
-	a) (p(x) ∧ q(x) → r(x))[x/c][x/d] = . . .  
-	b) (p(x, y, x) ∧ q(x, y, y) ∧ r(y, y) → t(x))[x/a, y/b] = . . .  
-	c) (p(x, x) ∧ q(x, y) → p(x, y))[y/b][y/c][x/b] = . . .  
-	d) (q(a, x) ∧ p(x, y) ∧ q(y, a) → r(y))[x/a][x/b] = . . .  
+	a) (p(x) ∧ q(x) → r(x))[x/c][x/d] = (p(c) ^ q(c) -> r(c))
+	b) (p(x, y, x) ∧ q(x, y, y) ∧ r(y, y) → t(x))[x/a, y/b] = (p(a, b, a) ^ q(a, b, b) ^ r(y, y) -> t(a))
+	c) (p(x, x) ∧ q(x, y) → p(x, y))[y/b][y/c][x/b] = (p(b, b) ^ q(b, b) -> p(b, b))
+	d) (q(a, x) ∧ p(x, y) ∧ q(y, a) → r(y))[x/a][x/b] = (q(a, a) ^ p(a, y) ^ q(y, a) -> r(y))
 
 ###### Exercise 12 Indicate which of the substitutions from Exercise 11 are ground substitutions. 
-
+A is a ground substitution 
+B is a ground substitution 
+C is a ground substitution 
 ###### Exercise 13 Provide a Herbrand model for the Datalog program from Exercise 10.  
+
 
 ###### Exercise 14 Provide the grounding for the Datalog program from Exercise 10.  
 

@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01 WSU Classes/Comp Sci/Team Projects/Lecture Notes/Ethics in Engineering.md",
+                "file": "01 WSU Classes/Comp Sci/Comparative Languages/Lecture Notes/Untitled.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Ethics in Engineering"
+              "title": "Untitled"
             }
           }
         ]
@@ -128,13 +128,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "01 WSU Classes/Comp Sci/Team Projects/Lecture Notes/Ethics in Engineering.md",
+                "file": "01 WSU Classes/Comp Sci/Comparative Languages/Lecture Notes/Untitled.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Ethics in Engineering"
+              "title": "Outline of Untitled"
             }
           },
           {
@@ -229,12 +229,26 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "e9806a20c7f42dfd",
+  "active": "91e7f5c3a371ffed",
   "lastOpenFiles": [
+    "01 WSU Classes/Comp Sci/Intro to Software Engineering/Group Meeting.md",
+    "01 WSU Classes/Comp Sci/Comparative Languages/Lecture Notes/Untitled.md",
+    "01 WSU Classes/Comp Sci/Intro to Software Engineering/Example Questions.md",
+    "01 WSU Classes/Comp Sci/Intro to Software Engineering/Development Process.md",
+    "01 WSU Classes/Comp Sci/Intro to Software Engineering/Project Overview.md",
+    "02 Notes/to-do/To-Do 09-04.md",
+    "01 WSU Classes/Comp Sci/Logic for Computer Science/Exercises/Exercise 2 - Hannah Wysong.md",
+    "2025-09-03.md",
+    "01 WSU Classes/Comp Sci/Logic for Computer Science/Lecture Notes/Formal Semantics.md",
+    "01 WSU Classes/Comp Sci/Logic for Computer Science/Lecture Notes/Datalog Rules.md",
+    "02 Notes/to-do/To-Do 09-03.md",
+    "01 WSU Classes/Comp Sci/OS Internals and Design/IO Assembly and C.md",
+    "01 WSU Classes/Comp Sci/OS Internals and Design/Hardware.md",
+    "01 WSU Classes/Comp Sci/OS Internals and Design/Kernel vs User Mode.md",
+    "01 WSU Classes/Comp Sci/Team Projects/Lecture Notes/Ethics in Engineering.md",
     "01 WSU Classes/Comp Sci/Team Projects/Lecture Notes/White Paper.md",
     "01 WSU Classes/Comp Sci/Team Projects/Lecture Notes/Project Requirement's.md",
     "01 WSU Classes/Comp Sci/Team Projects/Lecture Notes/Project Overview.md",
-    "01 WSU Classes/Comp Sci/Team Projects/Lecture Notes/Ethics in Engineering.md",
     "04 Literature/How To Take Smart Notes/Chapters/Chapter 1 - Everything you Need to Know.md",
     "04 Literature/How To Take Smart Notes/How To Take Smart Notes.md",
     "04 Literature/Fluent Forever/Gabriel Wyner.md",
@@ -246,26 +260,12 @@
     "04 Literature/Fluent Forever",
     "04 Literature/How To Take Smart Notes",
     "Sonke Ahrens.md",
-    "00 Templates/Class Template.md",
-    "00 Templates/To-Do List Template.md",
-    "02 Notes/to-do/To-Do 09-03.md",
-    "01 WSU Classes/Comp Sci/Team Projects/Quizzes/Requirements, Constraints, Standards.md",
-    "02 Notes/to-do/To-Do 09-02.md",
     "01 WSU Classes/Comp Sci/Team Projects/Quizzes",
-    "03 Italian/course/edX/beginner/Section 1/Exercises/Exercise 1.md",
-    "03 Italian/vocab/Salutations and Small Talk.md",
-    "03 Italian/course/edX/beginner/Section 1/Notes/Introductions.md",
-    "03 Italian/course/edX/beginner/Section 1/Notes/Basic Grammar.md",
     "03 Italian/course/edX/beginner/Section 1/Notes",
     "03 Italian/course/edX/beginner/Section 1/Exercises",
     "03 Italian/course/edX/beginner/Section 1",
     "03 Italian/course/edX/beginner",
     "03 Italian/course/edX",
-    "README.md",
-    "Untitled.md",
-    "01 WSU Classes/Comp Sci/Logic for Computer Science/Exercises/Exercise 2 - Hannah Wysong.md",
-    "00 WSU Classes/Comp Sci/Parallel Programming/Untitled.md",
-    "01 WSU Classes/Comp Sci/Logic for Computer Science/Lecture Notes/Formal Semantics.md",
     "01 WSU Classes/History",
     "Untitled.canvas"
   ]
