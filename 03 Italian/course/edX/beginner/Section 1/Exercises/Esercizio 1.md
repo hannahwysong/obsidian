@@ -1,4 +1,5 @@
 #### Esercizio 1. Basic greetings (fill in the blank)
+
 Fill in the blank with the right greeting according to each context:
 1. It's seven in the morning and you meet Mrs. Brambilla at the bus stop:
 ``` Buongiorno Signora ``` 

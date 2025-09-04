@@ -9,7 +9,8 @@ Ciao (Hello / Goodbye) - used only in informal situations
 **Buonasera** (_Good evening_) - used in formal and informal situations
 **Buonanotte** (_Good night_) - used in formal and informal situations
 
-**Arrivederci** (_Goodbye_) - used in formal and informal situations**ArrivederLa** (_Goodbye_) - used **only in formal** situations
+**Arrivederci** (_Goodbye_) - used in formal and informal situations
+**ArrivederLa** (_Goodbye_) - used **only in formal** situations
 
 **A domani** (_See you tomorrow_) - used in formal and informal situations**A presto** (_See you soon_) - used in formal and informal situations
 

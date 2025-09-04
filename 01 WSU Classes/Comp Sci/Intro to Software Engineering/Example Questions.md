@@ -1,6 +1,6 @@
 Class: [[Intro to Software Engineering]]
 Date: 09-03-2025
-Topics: 
+Topics: #software-engineering #project-qa #team3
 
 1. Should we use actual Wright State course catalog data, or is simplified mock data acceptable? If real data, how many courses per major/minor are expected?  
 Ans: Please use actual course catalog data. Please select 2 majors and 2 minors and use the basic required courses. For elective courses, you can just pick a standardized set as opposed to multiple options.
@@ -100,7 +100,6 @@ Ans: I leave that choice up to the teams.
 Ans: The schedule should be an N-semester plan, where N is the number of semesters the student initially specifies. You can think of the base case as requiring 8 semesters for 1 degree. Then as the student adds a second major and minors, the value of N goes up or the number of credits per semester goes up. You can provide students a way in which to specify the maximum credits they want to take, and then adjust N based on the number of majors, minors, and co-ops. You do not need to create a day to day time schedule.
 48. regarding the requirement template you shared, are we expected to follow that format to the letter, or is there room to adapt it slightly to reflect how we've divvied up the project tasks within our team? I ask because our approach and the complexity of certain components have shaped how we've chosen to tackle things.  
 Ans: The requirements document template is a simplified version of the industry standard Software Requirements Specification (SRS). The sections all need to be there and cannot be modified.
-  
 49. Are course descriptions required? If so, what information other than prerequisites for a course should be included?  
 Ans: Course descriptions are required.
 50. What are all functions involving admins? Is there a set number that should be included?  
