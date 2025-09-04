@@ -39,12 +39,25 @@ A is a ground substitution
 B is a ground substitution 
 C is a ground substitution 
 ###### Exercise 13 Provide a Herbrand model for the Datalog program from Exercise 10.  
-
+I = {q(a), q(c), p(b), p(a), p(c), r(b)}
 
 ###### Exercise 14 Provide the grounding for the Datalog program from Exercise 10.  
-
+9 total groundings 
+q(a)
+q(c)
+p(b)
+q(a) - > p(a)
+q(b) -> p(b)
+q(c) -> p(c)
+q(a) ^ p(a) -> r(b)
+q(b) ^ q(b) -> r(b)
+q(c) ^ p(c) -> r(b)
 ###### Exercise 15 Create three distinct Herbrand models for the Datalog program P that contains the  following rules.  
 	p(a, b)       
 	q(c)          
 	q(d)          
 	p(x, y) → q(x)
+
+I = {p(a, b), q(c), q(d), q(a)}
+I = {p(a, b), q(c), q(d), q(a), p(c, b)}
+I = {p(a, b), q(c), q(d), q(a), p(d, b)}
