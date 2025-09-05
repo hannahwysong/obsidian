@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "f1115bb486b9d74e",
+        "id": "82b528dfa7310e20",
         "type": "tabs",
         "children": [
           {
-            "id": "77a1b38675cf0e81",
+            "id": "5b6f1bc6dbb97157",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01 WSU Classes/Comp Sci/Logic for Computer Science/Exercises/Exercise 2 - Hannah Wysong.md",
+                "file": "03 Italian/course/edX/beginner/Section 1/Notes/Al Caffe all'Aperto.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Exercise 2 - Hannah Wysong"
+              "title": "Al Caffe all'Aperto"
             }
           }
         ]
@@ -33,7 +33,7 @@
       {
         "id": "28ec6867a5403229",
         "type": "tabs",
-        "dimension": 78.94736842105263,
+        "dimension": 64.76744186046511,
         "children": [
           {
             "id": "e9806a20c7f42dfd",
@@ -78,9 +78,9 @@
         ]
       },
       {
-        "id": "700221f2e31fcd28",
+        "id": "d83665e75e53440a",
         "type": "tabs",
-        "dimension": 21.052631578947366,
+        "dimension": 35.23255813953489,
         "children": [
           {
             "id": "4f4daf774ee3e8a2",
@@ -105,7 +105,7 @@
       {
         "id": "45b24e5fd9a47b3c",
         "type": "tabs",
-        "dimension": 32.49097472924188,
+        "dimension": 77.8516057585825,
         "children": [
           {
             "id": "d059f5d0a7545350",
@@ -123,21 +123,6 @@
             }
           },
           {
-            "id": "9d6eb922b435b568",
-            "type": "leaf",
-            "state": {
-              "type": "outline",
-              "state": {
-                "file": "01 WSU Classes/Comp Sci/Logic for Computer Science/Exercises/Exercise 2 - Hannah Wysong.md",
-                "followCursor": false,
-                "showSearch": false,
-                "searchQuery": ""
-              },
-              "icon": "lucide-list",
-              "title": "Outline of Exercise 2 - Hannah Wysong"
-            }
-          },
-          {
             "id": "35425479d1fcfac1",
             "type": "leaf",
             "state": {
@@ -148,17 +133,7 @@
             }
           },
           {
-            "id": "4bd9281bec89b0dc",
-            "type": "leaf",
-            "state": {
-              "type": "advanced-tables-toolbar",
-              "state": {},
-              "icon": "spreadsheet",
-              "title": "Advanced Tables"
-            }
-          },
-          {
-            "id": "f3bba03c8d2ea780",
+            "id": "3024ee255759c206",
             "type": "leaf",
             "state": {
               "type": "review-queue-list-view",
@@ -168,33 +143,12 @@
             }
           }
         ],
-        "currentTab": 2
-      },
-      {
-        "id": "7c01fa826aee70ce",
-        "type": "tabs",
-        "dimension": 40.34296028880867,
-        "children": [
-          {
-            "id": "91e7f5c3a371ffed",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "02 Notes/to-do/To-Do 09-04.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "To-Do 09-04"
-            }
-          }
-        ]
+        "currentTab": 1
       },
       {
         "id": "48aca7d3cfc5f6cb",
         "type": "tabs",
-        "dimension": 27.166064981949457,
+        "dimension": 22.148394241417495,
         "children": [
           {
             "id": "39f830e707d4b2b2",
@@ -229,44 +183,44 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "77a1b38675cf0e81",
+  "active": "5b6f1bc6dbb97157",
   "lastOpenFiles": [
-    "02 Notes/to-do/To-Do 09-04.md",
-    "01 WSU Classes/Comp Sci/Logic for Computer Science/Exercises/Exercise 2 - Hannah Wysong.md",
-    "01 WSU Classes/Comp Sci/Logic for Computer Science/Lecture Notes/Herbrand Models.md",
-    "01 WSU Classes/Comp Sci/Intro to Software Engineering/Project Overview.md",
-    "01 WSU Classes/Comp Sci/Intro to Software Engineering/Example Questions.md",
-    "01 WSU Classes/Comp Sci/Intro to Software Engineering/Development Process.md",
-    "01 WSU Classes/Comp Sci/Intro to Software Engineering/Group Meetings/Group Meeting 09-04.md",
-    "03 Italian/course/edX/beginner/Section 1/Notes/Vocab Nuovi.md",
-    "03 Italian/course/edX/beginner/Section 1/Exercises/Esercizio 1.md",
-    "03 Italian/course/edX/beginner/Section 1/Exercises/Esercizio 2.md",
-    "03 Italian/course/edX/beginner/Section 1/Exercises/Esercizio 4.md",
-    "01 WSU Classes/Comp Sci/Comparative Languages/Lecture Notes/Scheme.md",
-    "03 Italian/course/edX/beginner/Section 1/Notes/Basic Grammar.md",
-    "03 Italian/course/edX/beginner/Section 1/Notes/Introductions.md",
-    "01 WSU Classes/Comp Sci/Intro to Software Engineering/Group Meetings",
-    "01 WSU Classes/Comp Sci/Intro to Software Engineering/Untitled.md",
-    "01 WSU Classes/Comp Sci/Comparative Languages/Lecture Notes/Introduction.md",
-    "02 Notes/to-do/To-Do 09-03.md",
-    "2025-09-03.md",
-    "01 WSU Classes/Comp Sci/Logic for Computer Science/Lecture Notes/Formal Semantics.md",
-    "01 WSU Classes/Comp Sci/Logic for Computer Science/Lecture Notes/Datalog Rules.md",
-    "01 WSU Classes/Comp Sci/OS Internals and Design/IO Assembly and C.md",
-    "01 WSU Classes/Comp Sci/OS Internals and Design/Hardware.md",
-    "01 WSU Classes/Comp Sci/OS Internals and Design/Kernel vs User Mode.md",
-    "01 WSU Classes/Comp Sci/Team Projects/Lecture Notes/Ethics in Engineering.md",
-    "01 WSU Classes/Comp Sci/Team Projects/Lecture Notes/White Paper.md",
-    "01 WSU Classes/Comp Sci/Team Projects/Lecture Notes/Project Requirement's.md",
+    "03 Italian/course/edX/beginner/Section 1/Notes/Al Caffe all'Aperto.md",
+    "04 Italian/course/edX/beginner/Section 1/Notes/Introductions.md",
+    "04 Literature/How To Take Smart Notes/Chapters/Chapter 1 - Everything you Need to Know.md",
+    "04 Literature/How To Take Smart Notes/Sönke Ahrens.md",
+    "04 Literature/How To Take Smart Notes/How To Take Smart Notes.md",
     "04 Literature/How To Take Smart Notes/Chapters",
-    "04 Literature/Fluent Forever",
+    "04 Literature/Fluent Forever/Gabriel Wyner.md",
+    "04 Literature/Fluent Forever/Fluent Forever.md",
     "04 Literature/How To Take Smart Notes",
-    "01 WSU Classes/Comp Sci/Team Projects/Quizzes",
+    "04 Literature/Fluent Forever",
+    "04 Literature",
+    "03 Italian/course/edX/beginner/Section 1/Notes/Vocab Nuovi.md",
+    "03 Italian/course/edX/beginner/Section 1/Notes/Introductions.md",
+    "03 Italian/course/edX/beginner/Section 1/Exercises/Esercizio 4.md",
+    "03 Italian/course/edX/beginner/Section 1/Exercises/Esercizio 2.md",
+    "03 Italian/course/edX/beginner/Section 1/Notes/Basic Grammar.md",
+    "03 Italian/course/edX/beginner/Section 1/Exercises/Esercizio 1.md",
     "03 Italian/course/edX/beginner/Section 1/Notes",
     "03 Italian/course/edX/beginner/Section 1/Exercises",
     "03 Italian/course/edX/beginner/Section 1",
     "03 Italian/course/edX/beginner",
     "03 Italian/course/edX",
+    "03 Italian/vocab/Salutations and Small Talk.md",
+    "03 Italian/course",
+    "02 Notes/to-do/To-Do 09-04.md",
+    "02 Notes/to-do/To-Do 09-03.md",
+    "02 Notes/to-do/To-Do 09-02.md",
+    "02 Notes/to-do/To-Do 08-29.md",
+    "02 Notes/to-do/To-Do 08-28.md",
+    "02 Notes/to-do/To-Do 08-27.md",
+    "01 WSU Classes/Comp Sci/Team Projects/Quizzes/Requirements, Constraints, Standards.md",
+    "01 WSU Classes/Comp Sci/Team Projects/Lecture Notes/White Paper.md",
+    "01 WSU Classes/Comp Sci/Team Projects/Lecture Notes/Project Requirement's.md",
+    "01 WSU Classes/Comp Sci/Team Projects/Lecture Notes/Project Overview.md",
+    "01 WSU Classes/Comp Sci/Team Projects/Lecture Notes/Ethics in Engineering.md",
+    "01 WSU Classes/Comp Sci/Logic for Computer Science/Lecture Notes/Herbrand Models.md",
     "Untitled.canvas"
   ]
 }
