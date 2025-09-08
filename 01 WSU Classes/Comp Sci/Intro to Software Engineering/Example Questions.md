@@ -130,3 +130,56 @@ Ans: This depends on the user type. For faculty --- name, email, and office loca
 Ans: The default can be set to 15 with the ability to have faculty overrides for under 11 or over 20.
 63. Can we use 3rd party tools to create the website or does it have to be built from scratch?  
 Ans: You can use 3rd party tools. However, you need to review the licensing agreement for the tools to ensure that you can use them freely. All 3rd party tools need to be described in the final requirements document that you will submit at the end of the term.
+64. Since registration is only required for system admins but logging in is required for all users, should the account regostration section be only applicable and accessible to system admin users rather than all users?
+Ans: What I meant by admins being able to create accounts is that they should be able to create faculty and student accounts from the admin page. For the project, you do not need to have account registration capabilities from the main landing page.
+65. Could you clarify what is needed for the Document Conventions section of the Software Requirements Specification paper? Specifically, what are you looking for in terms of "standards and conventions"?
+Ans: I will be discussing the software requirements document later in the semester. I will be providing example documents and going through the entire template.
+66. For the 2 system administrator users, do they need to have any requirement differences from one another similarly to the 2 faculty users?
+    Ans: I leave this up to the students to decide if the two admins have different roles.
+67. For the SRS you said that all sections need to be there and cannot be modified. Are we able to change the formatting? Are we able to add sections?
+Ans: I will be discussing the software requirements document later in the semester. I will be providing example documents and going through the entire template.
+
+68. You said that passwords do not need to be hashed. Does there need to be any protection for passwords? Should the user be locked out after to many login attempts?
+Ans: Yes, but I will let teams decide after how many attempts an account is locked.
+69. Do we need to worry about different type of offered classes? For example if a class is offered at a higher level or if it is an honors course?
+Ans: We will only consider undergraduate courses. For simplicity we won't consider honors courses.
+70. How should co-op be handled (Do I just not understand co-ops)?
+Ans: A co-op is a semester long professional experience students undertake. Unlike an internship that may last summer or winter recess, a co-op requires students to spend a semester. Thus, during the co-op a student cannot take courses. If a student selects a co-op, then their courses have to get restructured for the future semesters.
+71. Can faculty only see the students they are assigned to?
+Ans: Yes
+72. . You had said before that doing this entire project is impossible and we should pick 5 things to focus on. Is this 5 things from the general overview? Or is the general overview the required stuff and we should pick 5 other things? What is required and what are optional things we can choose 5 things from?
+Ans: I had said to focus on a few key requirements. The 5 requirements are what goes into the requirements presentation to demonstrate that teams have been able to select the most important requirements for the project. As noted in [#channel](https://slack.com/archives/C09AZQ3AWTS), populating the Requirements tab on the Testing_Template.xlsx file in [#channel](https://slack.com/archives/C09AZQHGY2U) is what all teams should be undertaking. By filling this spreadsheet with your requirements and adding priority and critical/not-critical tags you will be able to isolate the minimum set of requirements to show the project works. As noted in class, a few key requirements implemented and tested end-to-end that demonstrates a working product is weighted far higher than many incomplete requirements.
+73. Do we need to check that the project works with different OS? For example, do we need to test that it works with windows, linux, etc.
+Ans: You can select a single OS if you are building a local desktop-based application.
+74. You had said in announcements that "All teams need to finish asking questions by Thursday September 11". Are we still able to ask mass questions after that date in this channel or you would prefer a Direct message?
+Ans: This channel will remain open throughout the semester. However, the September 11 deadline is a cutoff for me to assign mid semester progress grades.
+75. How will a faculty member be assigned to advise a student?
+Ans: Manual assignment by the admin.
+76. Should the system's course data (e.g., prerequisites, course numbers) be static for the duration of the project, or should we design the system to handle potential updates to the course catalog?
+Ans: Admins should be able to update this information.
+77. What is the specific logic for the system to automatically determine the feasibility of a co-op?
+Ans: This is determining if the student's remaining course requirements can be completed in the number of remaining semesters if a semester long co-op is added. If it cannot be done then should it feasible by either adding credits or extra semesters.
+78. When a student's schedule change causes a conflict, what is the expected format for the system-generated suggestion of an alternate graduation timeline?
+Ans: This should be a notification on the student and faculty accounts with suggestions for increasing credits or changing graduation date.
+79. What specific deliverables will be evaluated for the "Mid-semester progress" grade component?
+Ans: See pinned message on [#channel](https://slack.com/archives/C09AZQ3AWTS).
+80.  Are there any specific requirements for the team website's content or structure beyond hosting the reports and documentation?
+Ans: See pinned message on [#channel](https://slack.com/archives/C09AZQ3AWTS).
+81. What level of detail is expected for the user manuals?
+Ans: There are no user manuals. I have not discussed the need for user manuals.
+82. Should students be able to make changes to the schedule after approved by faculty?
+Ans: Yes, but it would require the faculty to be notified that a change is being made.
+83.  Does this only apply to full time students or should there be an option to take below 12 credit hours?
+Ans: Students wanting to take below 12 or over 20 will require faculty approval.
+84. Should Co-ops replace a class in the time slot? If not, how would adding one affect the over all schedule?
+Ans: A co-op is a semester long professional experience students undertake. Unlike an internship that may last summer or winter recess, a co-op requires students to spend a semester. Thus, during the co-op a student cannot take courses. If a student selects a co-op, then their courses have to get restructured for the future semesters.
+85. Does this need to be in the format of a schedule builder or can it return like an excel file with all of the required classes in order?
+Ans: The return should be a semester by semester calendar showing the courses needed.
+86. Should this include every major and minor available at Wright state or can we pick a certain college and use only those majors and minors?
+Ans: As noted during the course introduction, it is only 2 majors and 2 minors.
+87. Do we have to consider the majors that cant have certain minors?
+Ans: The choice of majors and minors is up to each team.
+88. Is there a time limit on how long the program takes to return a result (schedule)?
+Ans: there is no time limit. However, I encourage setting timeouts if a schedule cannot be generated after a certain duration.
+89. Will you add due dates to pilot?
+Ans: As noted on Pilot and discussed in class, everything will be done via Slack. I have provided a pinned message on [#channel](https://slack.com/archives/C09AZQ3AWTS) on due dates.

@@ -25,8 +25,8 @@ None of them are atoms over L because there are no predicates for parentOf or gr
 	p(b)               
 	q(x) → p(x)        
 	q(y) ∧ p(y) → r(b) 
-I = {q(a), q(c), p(a), r(a)}
-I = {q(c), q(a), p(c), r(c)}
+I = {q(a), q(c), p(a), r(b)}
+I = {q(c), q(a), p(c), r(b)}
 I = {q(b), q(c), p(b), r(b)}
 ###### Exercise 11 Evaluate the following.  
 	a) (p(x) ∧ q(x) → r(x))[x/c][x/d] = (p(c) ^ q(c) -> r(c))
