@@ -1,8 +1,8 @@
 ###### Exercise 1 Specify whether deriving each of the following facts is possible. Utilize (1) to (14) in Example 1.1.1. Justify all solutions.  
 (a) Marian is Natasha’s grandmother. 
-		True Marian is the mother of Michelle (1) who is the mother of Natasha (7) making Marian her grandmother. 
+		True Marian is the mother of Michelle (1) who is the mother of Natasha (7) making Marian her grandmother. Also rules (11) and (12)
 (b) Craig is Natasha’s uncle.  
-		True Craig is the brother of Michelle (2) and Michelle is the mom of Natasha (7) making Craig her uncle.
+		True Craig is the brother of Michelle (2) and Michelle is the mom of Natasha (7) making Craig her uncle. Also rules (11) and (12)
 (c) Clark is male. 
 		False we don't know anything about Clark.
 ###### Exercise 2 Write the following sentences as Datalog rules.  
