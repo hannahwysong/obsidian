@@ -39,6 +39,7 @@ Scheduling Processes
 	- priority 
 Preemptive Multitasking 
 - process can be paused for a short time where something else is allowed to run 
+- the OS can remove a programs access to the CPU without asking permission 
 	- aka involuntarily kicked off the CPU 
 - process may preempt itself
 	- makes a system call, waits to read disk, makes another runnable process 
