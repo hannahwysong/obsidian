@@ -1,0 +1,3 @@
+- Don't forget your name/ major 
+
+Hi, my name is Hannah and Im and Computer Science Major. I am on a mission to support a group of rebel engineers. There are confidential death star plans located on a Raspberry Pi in an imperial electronics lab. The engineers must manage to transfer the plans to a rebel server in order to expose them to the galaxy. Each document contains the plans with vulnerabilities in a red circle. 

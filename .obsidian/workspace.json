@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "0d0596e0e75e0939",
+        "id": "cb05ec3919595005",
         "type": "tabs",
         "children": [
           {
-            "id": "c76cfac44845ac90",
+            "id": "4cc85a9b0040d950",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01 WSU Classes/Comp Sci/OS Internals and Design/C.md",
+                "file": "01 WSU Classes/Comp Sci/Team Projects/Lecture Notes/Elevator Pitch.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "C"
+              "title": "Elevator Pitch"
             }
           }
         ]
@@ -105,7 +105,7 @@
       {
         "id": "45b24e5fd9a47b3c",
         "type": "tabs",
-        "dimension": 33.273056057866185,
+        "dimension": 32.887700534759354,
         "children": [
           {
             "id": "d059f5d0a7545350",
@@ -128,13 +128,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "01 WSU Classes/Comp Sci/OS Internals and Design/C.md",
+                "file": "01 WSU Classes/Comp Sci/Comparative Languages/Lecture Notes/Introduction.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of C"
+              "title": "Outline of Introduction"
             }
           },
           {
@@ -166,27 +166,60 @@
               "icon": "SpacedRepIcon",
               "title": "Notes Review Queue"
             }
+          },
+          {
+            "id": "d016a985741db534",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "01 WSU Classes/Comp Sci/Team Projects/Lecture Notes/Elevator Pitch.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Elevator Pitch"
+            }
+          },
+          {
+            "id": "d1a9d39788ab6695",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "01 WSU Classes/Comp Sci/Team Projects/Lecture Notes/Elevator Pitch.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Elevator Pitch"
+            }
           }
         ],
         "currentTab": 2
       },
       {
-        "id": "78b11cd021e3f8a0",
+        "id": "bd4a47f799a15827",
         "type": "tabs",
-        "dimension": 40.415913200723324,
+        "dimension": 42.780748663101605,
         "children": [
           {
-            "id": "dbdaee19a1e48e88",
+            "id": "770e8f5991b88e96",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02 Notes/to-do/To-Do 09-12.md",
+                "file": "02 Notes/to-do/To-Do 09-19.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "To-Do 09-12"
+              "title": "To-Do 09-19"
             }
           }
         ]
@@ -194,7 +227,7 @@
       {
         "id": "48aca7d3cfc5f6cb",
         "type": "tabs",
-        "dimension": 26.31103074141049,
+        "dimension": 24.331550802139034,
         "children": [
           {
             "id": "39f830e707d4b2b2",
@@ -210,7 +243,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 315.5
+    "width": 315.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -229,44 +263,44 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "c76cfac44845ac90",
+  "active": "4cc85a9b0040d950",
   "lastOpenFiles": [
-    "02 Notes/to-do/To-Do 09-12.md",
-    "01 WSU Classes/Comp Sci/OS Internals and Design/C.md",
-    "01 WSU Classes/Comp Sci/OS Internals and Design/PCB.md",
-    "01 WSU Classes/Comp Sci/OS Internals and Design/Processes.md",
-    "01 WSU Classes/Comp Sci/OS Internals and Design/Threads.md",
-    "01 WSU Classes/Comp Sci/OS Internals and Design/OS Requirements.md",
-    "01 WSU Classes/Comp Sci/OS Internals and Design/Hardware.md",
-    "01 WSU Classes/Comp Sci/OS Internals and Design/IO Assembly and C.md",
-    "01 WSU Classes/Comp Sci/OS Internals and Design/Kernel vs User Mode.md",
-    "01 WSU Classes/Comp Sci/OS Internals and Design/OS Introduction.md",
-    "01 WSU Classes/Comp Sci/Logic for Computer Science/Exercises/Exercise 3 - Hannah Wysong.md",
-    "01 WSU Classes/Comp Sci/Logic for Computer Science/Lecture Notes/Herbrand Models.md",
-    "01 WSU Classes/Comp Sci/Logic for Computer Science/Lecture Notes/Herbrand-Entails.md",
+    "01 WSU Classes/Comp Sci/OS Internals and Design/Lecture Notes/Memory Memory.md",
+    "02 Notes/to-do/To-Do 09-19.md",
+    "01 WSU Classes/Comp Sci/OS Internals and Design/Lecture Notes/FIFO and RR Scheduling.md",
+    "01 WSU Classes/Comp Sci/OS Internals and Design/Lecture Notes/Threads, Processes and CPU Scheduling.md",
+    "01 WSU Classes/Comp Sci/Comparative Languages/Lecture Notes/Introduction.md",
+    "01 WSU Classes/Comp Sci/Comparative Languages/Lecture Notes/Racket.md",
+    "01 WSU Classes/Comp Sci/Comparative Languages/Lecture Notes/Defining Functions.md",
+    "01 WSU Classes/Comp Sci/Comparative Languages/Lecture Notes/Untitled.md",
+    "01 WSU Classes/Comp Sci/OS Internals and Design/Lecture Notes/Multilevel Feedback Queue.md",
+    "01 WSU Classes/Comp Sci/Team Projects/Lecture Notes/Elevator Pitch.md",
+    "01 WSU Classes/Comp Sci/Team Projects/Lecture Notes/White Paper.md",
     "01 WSU Classes/Comp Sci/Logic for Computer Science/Lecture Notes/Single Step Operator.md",
-    "01 WSU Classes/Comp Sci/Logic for Computer Science/Lecture Notes/Datalog Rules.md",
     "01 WSU Classes/Comp Sci/Logic for Computer Science/Lecture Notes/Formal Semantics.md",
     "01 WSU Classes/Comp Sci/Logic for Computer Science/Lecture Notes/Fixed Point Semantics.md",
-    "02 Notes/to-do/To-Do 09-11.md",
-    "02 Notes/to-do/To-Do 09-10.md",
-    "01 WSU Classes/Comp Sci/Team Projects/Lecture Notes/White Paper.md",
-    "01 WSU Classes/Comp Sci/Team Projects/Lecture Notes/Ethics in Engineering.md",
-    "01 WSU Classes/Comp Sci/Team Projects/Lecture Notes/Project Overview.md",
-    "01 WSU Classes/Comp Sci/Team Projects/Lecture Notes/Project Requirement's.md",
+    "02 Notes/to-do/To-Do 09-16.md",
+    "01 WSU Classes/Comp Sci/Logic for Computer Science/Exercises/Exercise 3 - Hannah Wysong.md",
     "01 WSU Classes/Comp Sci/Logic for Computer Science/Exercises/Exercise 2 - Hannah Wysong.md",
-    "01 WSU Classes/Comp Sci/Logic for Computer Science/Exercises/Exercise 1 - Hannah Wysong.md",
-    "02 Notes/to-do/To-Do 09-08.md",
+    "01 WSU Classes/Comp Sci/Logic for Computer Science/Lecture Notes/Herbrand Models.md",
+    "01 WSU Classes/Comp Sci/Logic for Computer Science/Lecture Notes/Herbrand-Entails.md",
+    "01 WSU Classes/Comp Sci/Logic for Computer Science/Lecture Notes/Datalog Rules.md",
+    "01 WSU Classes/Comp Sci/Logic for Computer Science/Exams/Midterm 09-16.md",
+    "01 WSU Classes/Comp Sci/Team Projects/Lecture Notes/Project Requirement's.md",
+    "01 WSU Classes/Comp Sci/Team Projects/Lecture Notes/Project Overview.md",
+    "01 WSU Classes/Comp Sci/Team Projects/Lecture Notes/Ethics in Engineering.md",
+    "01 WSU Classes/Comp Sci/Intro to Software Engineering/Project Overview.md",
+    "2025-09-15.md",
+    "01 WSU Classes/Comp Sci/Intro to Software Engineering/Project Files",
+    "01 WSU Classes/Comp Sci/Logic for Computer Science/Exams",
+    "01 WSU Classes/Comp Sci/OS Internals and Design/Exams",
+    "01 WSU Classes/Comp Sci/OS Internals and Design/Lecture Notes",
     "Untitled.canvas",
     "01 WSU Classes/Comp Sci/Intro to Software Engineering/Group Meetings",
     "04 Literature/How To Take Smart Notes/Chapters",
     "04 Literature/Fluent Forever",
     "04 Literature/How To Take Smart Notes",
     "01 WSU Classes/Comp Sci/Team Projects/Quizzes",
-    "03 Italian/course/edX/beginner/Section 1/Notes",
-    "03 Italian/course/edX/beginner/Section 1/Exercises",
-    "03 Italian/course/edX/beginner/Section 1",
-    "03 Italian/course/edX/beginner",
-    "03 Italian/course/edX"
+    "03 Italian/course/edX/beginner/Section 1/Notes"
   ]
 }

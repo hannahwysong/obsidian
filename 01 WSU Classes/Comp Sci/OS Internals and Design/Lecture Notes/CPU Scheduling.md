@@ -24,7 +24,7 @@ CPU Scheduling
 - only one process is running on the CPU core at at a time
 - all processes reside in a state queue 
 Long Term Scheduling 
-- how many procceses the OS will allow to exist 
+- how many processes the OS will allow to exist 
 - limited by memory
 Short Term Scheduling
 - OS selects a "ready" process from a queue 
@@ -36,4 +36,4 @@ Short Term Scheduling
 	- processes is created or terminated
 - non-preemptive scheduling method must wait for an event to occur before switching 
 - preemptive allows a scheduler to interrupt a process
-- a good scheduling algorithm utuilizes the CPU and I/O storage. IT also considers how 
+- a good scheduling algorithm utilizes the CPU and I/O storage. IT also considers how 
